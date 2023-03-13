@@ -1265,6 +1265,10 @@ body {
     margin-top: 6rem;
     padding-top: 3rem;
 }
+.footer .footer-heading {
+  font-size: 20px;
+  color: #fff;
+}
 
 .footer .btn.btn-social {
     margin-right: 5px;
